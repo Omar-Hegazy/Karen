@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/search app/v15
+/search app/bin/Debug
+/search app/obj/Debug
